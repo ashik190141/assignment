@@ -159,3 +159,126 @@
     color: #005FAC;
     margin-bottom: 60px;
 }
+/* Resume Section */
+.resume-section{
+    margin-left: 280px;
+}
+.resume-container {
+    display: flex;
+    gap: 71px;
+}
+
+.education {
+    margin-top: 113px;
+}
+
+.experience {
+    margin-top: 113px;
+}
+.resume-title {
+    color: #474747;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.education-info {
+    width: 511px;
+    height: 175px;
+    margin-bottom: 30px;
+}
+.subject {
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.institution {
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.description {
+    width: 511px;
+    height: 84px;
+    color: #030101;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: justify;
+}
+/* footer */
+.future{
+    padding-left: 230px;
+    margin-right: 231px;
+    margin-bottom: 130px;
+    color: #FFFFFF;
+}
+.footer{
+    margin-top: 50px;
+    background: #151414;
+}
+.footer-container{
+    padding-top: 130px;
+    display: flex;
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    margin-bottom: 16px;
+}
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 485px;
+    margin-bottom: 24px;
+}
+.email{
+    margin-bottom: 16px;
+}
+.phone {
+    margin-bottom: 32px;
+}
+.sub-title{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom: 32px;
+    color: #FFFFFF;
+}
+label {
+    display: block;
+}
+.formtxt{
+    width: 325px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-left: 21px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 16px;
+    background: #151414;
+    border: 1px solid #fbfafa;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+.sub-button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 20px 32px;
+    color: #FFFFFF;
+    background: #005FAC;
+    border: 1px solid #151414;
+    border-radius: 8px;
+}
+.socialicon1{
+    margin-right: 17px;
+}
+.socialicon2 {
+    margin-right: 17px;
+}
